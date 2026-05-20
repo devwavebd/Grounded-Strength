@@ -1,0 +1,6 @@
+{
+  "name": "Grounded Strength ATX",
+  "description": "Premium luxury redesign of Grounded Strength Austin website, highlighting athletic performance, technology, pain-to-performance training, and world-class programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
